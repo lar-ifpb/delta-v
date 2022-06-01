@@ -1,0 +1,8 @@
+# batchfile para enviar o código para o robô
+progress
+put Makefile
+put *.c
+# descomentar quando tivermos algum arquivo.h para enviar
+#put *.h
+exit
+
